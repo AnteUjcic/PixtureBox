@@ -1,0 +1,10 @@
+C:\Users\Ante Ujcic\source\repos\PictureBoxKOntrola\PictureBoxKOntrola\bin\Debug\PictureBoxKOntrola.exe.config
+C:\Users\Ante Ujcic\source\repos\PictureBoxKOntrola\PictureBoxKOntrola\bin\Debug\PictureBoxKOntrola.exe
+C:\Users\Ante Ujcic\source\repos\PictureBoxKOntrola\PictureBoxKOntrola\bin\Debug\PictureBoxKOntrola.pdb
+C:\Users\Ante Ujcic\source\repos\PictureBoxKOntrola\PictureBoxKOntrola\obj\Debug\PictureBoxKOntrola.csprojAssemblyReference.cache
+C:\Users\Ante Ujcic\source\repos\PictureBoxKOntrola\PictureBoxKOntrola\obj\Debug\PictureBoxKOntrola.Form1.resources
+C:\Users\Ante Ujcic\source\repos\PictureBoxKOntrola\PictureBoxKOntrola\obj\Debug\PictureBoxKOntrola.Properties.Resources.resources
+C:\Users\Ante Ujcic\source\repos\PictureBoxKOntrola\PictureBoxKOntrola\obj\Debug\PictureBoxKOntrola.csproj.GenerateResource.cache
+C:\Users\Ante Ujcic\source\repos\PictureBoxKOntrola\PictureBoxKOntrola\obj\Debug\PictureBoxKOntrola.csproj.CoreCompileInputs.cache
+C:\Users\Ante Ujcic\source\repos\PictureBoxKOntrola\PictureBoxKOntrola\obj\Debug\PictureBoxKOntrola.exe
+C:\Users\Ante Ujcic\source\repos\PictureBoxKOntrola\PictureBoxKOntrola\obj\Debug\PictureBoxKOntrola.pdb
